@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Quick stats about me
 | Github Stats | Top Languages | Streak |
 | --- | --- | --- |
-| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Menotron&hide=contribs,stars&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Menotron&show_icons=true&theme=chartreuse-dark&count_private=true&layout=compact&hide_border=true&hide=roff,c,css&langs_count=6) | ![GitHub Streak](https://streak-stats.demolab.com/?user=Menotron&theme=chartreuse-dark&hide_border=true) |
+| ![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Menotron&hide=contribs,stars&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true) | ![My top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Menotron&show_icons=true&theme=chartreuse-dark&count_private=true&layout=compact&hide_border=true&hide=roff,c,css&langs_count=6) | ![GitHub Streak](https://streak-stats.demolab.com/?user=Menotron&theme=chartreuse-dark&hide_border=true) |
 
 ### Find me around the web :globe_with_meridians:
   
