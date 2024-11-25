@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 ### Accrediations and certifications
 
 [<img src="https://github.com/Menotron/menotron.github.io/blob/1327eb05d8f694325f3f7fb1a4efa34945916c99/assets/images/902f644e-4ff9-458a-b9ef-f0582e411052.png" width="100" height="100" alt="Databricks">](https://credentials.databricks.com/b55dc7c3-df99-4a01-8547-883f44b2c53f#gs.immdp2)
+
 [<img src="https://github.com/Menotron/menotron.github.io/blob/6cddf5652a4885a6da756321b0327bb8ffdb2154/assets/images/certificate-in-data-governance-ethics.png" width="100" height="100" alt="Certificate in Data Governance & Ethics
 ">](https://www.credly.com/badges/5cf3f1af-ad50-4ee6-91aa-fa7ff5d9341e/public_url)
+[<img src="https://github.com/Menotron/menotron.github.io/blob/2ccc36ea19be2bc3534306e3902e30717d3fe201/assets/images/aigpe-certified-six-sigma-white-belt-badge.png" width="100" height="100" alt="Six Sigma White Belt">](https://glanbia.udemy.com/certificate/UC-6647a279-3579-4458-88aa-acf988ed3824/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+
 
 ### Me around the web :globe_with_meridians:
   
