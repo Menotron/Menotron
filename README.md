@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ### Accrediations and certifications
 
-|<sub><sup>Airflow Fundamentals</sup></sub>|<sub><sup>Lakehouse Fundamentals</sup></sub>|
-| --- | --- |
-| [<img src="https://github.com/Menotron/menotron.github.io/blob/64e61376a2a7b32446b6006e65b16ba8e4f2a654/assets/images/astronomer-apache-airflow-fundamentals.png" width="100" height="100" alt="Apache Airflow Fundamentals">](https://www.credly.com/badges/6c164d93-09eb-4ee6-a1a8-8c00c3ea4f1c/public_url) | [<img src="https://github.com/Menotron/menotron.github.io/blob/1327eb05d8f694325f3f7fb1a4efa34945916c99/assets/images/902f644e-4ff9-458a-b9ef-f0582e411052.png" width="100" height="100" alt="Databricks">](https://credentials.databricks.com/b55dc7c3-df99-4a01-8547-883f44b2c53f#gs.immdp2) |
+|<sub><sup>Airflow Fundamentals</sup></sub>|<sub><sup>Lakehouse Fundamentals</sup></sub>|<sub><sup>Gen-AI Fundamentals</sup></sub>|
+| --- | --- | --- |
+| [<img src="https://github.com/Menotron/menotron.github.io/blob/64e61376a2a7b32446b6006e65b16ba8e4f2a654/assets/images/astronomer-apache-airflow-fundamentals.png" width="100" height="100" alt="Apache Airflow Fundamentals">](https://www.credly.com/badges/6c164d93-09eb-4ee6-a1a8-8c00c3ea4f1c/public_url) | [<img src="https://github.com/Menotron/menotron.github.io/blob/1327eb05d8f694325f3f7fb1a4efa34945916c99/assets/images/902f644e-4ff9-458a-b9ef-f0582e411052.png" width="100" height="100" alt="Databricks">](https://credentials.databricks.com/b55dc7c3-df99-4a01-8547-883f44b2c53f#gs.immdp2) | [<img src="https://github.com/Menotron/menotron.github.io/blob/edf9027d0beb49d53b727345014bc9680c763701/assets/images/6f39ca6a-f57c-4add-9ead-3c2db5fbfb72.png" width="100" height="100" alt="Databricks">](https://credentials.databricks.com/96a2e27a-2e14-4810-9f68-134c7e2e12a5#acc.pFgCbI1n) |
 
 |<sub><sup>Governance & Ethics</sup></sub>|<sub><sup>Six-Sigma White Belt </sup></sub>|
 | --- | --- |
