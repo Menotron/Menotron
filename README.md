@@ -1,5 +1,5 @@
 #### 👋 Hi there, 
-I am [Sujesh Menon](https://ie.linkedin.com/in/sujesh-menon-1010/). I am a Senior Data Engineer at [Glanbia](https://careers.glanbia.com/go/Glanbia-Business-Services/1346801/) 
+I am [Sujesh Menon](https://ie.linkedin.com/in/sujesh-menon-1010/). I am a Senior Data Engineer at [Glanbia](https://careers.glanbia.com/go/Glanbia-Business-Services/1346801/). As a seasoned data professional with deep expertise in building and maintaining large scale data processing systems, I love solving complex business problems leveraging distributed compute and OSS. My areas of interest includes data governance, solution architecture and generative AI/BI. 
 
 <!--
 **Menotron/Menotron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/scala-black?style=plastic&logo=scala&logoColor=%23DC322F">
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript-black?style=plastic&logo=javascript&logoColor=%23F7DF1E">
 <img alt="Static Badge" src="https://img.shields.io/badge/r-black?style=plastic&logo=r&logoColor=%23276DC3">
+<img alt="Static Badge" src="https://img.shields.io/badge/sap-black?style=plastic&logo=sap&logoColor=%230FAAFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/openai-black?style=plastic&logo=openai&logoColor=%23412991">
 <img alt="Static Badge" src="https://img.shields.io/badge/airbyte-black?style=plastic&logo=airbyte&logoColor=%23615EFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/airflow-black?style=plastic&logo=apacheairflow&logoColor=%23017CEE">
@@ -75,8 +76,8 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/mlflow-black?style=plastic&logo=mlflow&logoColor=%230194E2">
 <img alt="Static Badge" src="https://img.shields.io/badge/delta-black?style=plastic&logo=delta&logoColor=%23003366">
 <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-black?style=plastic&logo=fastapi&logoColor=%23009688">
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/gradio-black?style=plastic&logo=gradio&logoColor=%23F97316">
+  
 </p>
 
 
