@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/mysql-black?style=plastic&logo=mysql&logoColor=%234479A1">
 <img alt="Static Badge" src="https://img.shields.io/badge/processing-black?style=plastic&logo=processingfoundation&logoColor=%23006699">
 <img alt="Static Badge" src="https://img.shields.io/badge/json-black?style=plastic&logo=json">
-<img alt="Static Badge" src="https://img.shields.io/badge/tableau-black?style=plastic&logo=tableau">
+<img alt="Static Badge" src="https://img.shields.io/badge/tableau-black?style=plastic&logo=tailscale&logoColor=%23005571">
 <img alt="Static Badge" src="https://img.shields.io/badge/dbt-black?style=plastic&logo=dbt&logoColor=%23FF694B">
 <img alt="Static Badge" src="https://img.shields.io/badge/celery-black?style=plastic&logo=celery&logoColor=%2337814A">
 <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=plastic&logo=git&logoColor=%23F05032">
@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 
 
 ### Blog Posts
+[Turn Your Dataframes into an Interactive Tableau-Styled Drag-and-Drop UI for Visual Analysis](https://community.databricks.com/t5/get-started-discussions/turn-your-dataframes-into-an-interactive-tableau-styled-drag-and/td-p/104189) <br>
 [Databricks Ireland Meetup](https://community.databricks.com/t5/dublin/databricks-ireland-meetup/td-p/100333) <br>
 [Databricks Community Champions](https://community.databricks.com/t5/databricks-community-champions/databricks-community-champion-december-2024-sujesh-menon/ba-p/101038) <br>
 
@@ -89,7 +90,7 @@ Here are some ideas to get you started:
 ### Me around the web :globe_with_meridians:
   
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:smenon@tcd.ie "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/ln-blue?style=flat&color=blue)](https://ie.linkedin.com/in/sujesh-menon-1010/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/ln-blue?style=flat&color=blue&logo=Linkedin&logoColor=white)](https://ie.linkedin.com/in/sujesh-menon-1010/ "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/zoomindublin/ "Follow on Instagram")
 [![GitHub followers](https://img.shields.io/badge/-0A0A0A??style=flat&logo=Github&logoColor=white)](https://github.com/Menotron/?tab=follow)
 [![StackOverflow Badge](https://img.shields.io/badge/--FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12628668/menotron "StackOverflow")
