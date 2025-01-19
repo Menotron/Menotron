@@ -101,4 +101,4 @@ Here are some ideas to get you started:
 Pick a slot if you'd like to meet and chat about anything data and AI you are passionate about.<br>Would appreciate if could clearly describe the agenda brfore the meeting.
 ||
 | --- |
-| [<img src="https://raw.githubusercontent.com/Menotron/menotron.github.io/main/.github/images/calendly_1.png" width="225" height="200" alt="meet_link">](https://calendly.com/smenon-1/meeting) |
+| [<img src="https://raw.githubusercontent.com/Menotron/menotron.github.io/main/.github/images/calendly_1.png" width="225" height="200" alt="meet_link">](https://outlook.office.com/bookwithme/user/1213fde420f84c3493510922a7514a9d@glanbia.net/meetingtype/0oijGiRCGUS-g7jjZmNZxA2?bookingcode=efd75c82-d6b3-49e6-bc9b-e07b1d0ee3ec&anonymous&ep=mlink) |
