@@ -73,10 +73,12 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=plastic&logo=git&logoColor=%23F05032">
 <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=plastic&logo=docker&logoColor=%232496ED">
 <img alt="Static Badge" src="https://img.shields.io/badge/langchain-black?style=plastic&logo=langchain&logoColor=%231C3C3C">
+<img alt="Static Badge" src="https://img.shields.io/badge/langgraph-black?style=plastic&logo=langgraph&logoColor=%231C3C3C">
 <img alt="Static Badge" src="https://img.shields.io/badge/mlflow-black?style=plastic&logo=mlflow&logoColor=%230194E2">
 <img alt="Static Badge" src="https://img.shields.io/badge/delta-black?style=plastic&logo=delta&logoColor=%23003366">
 <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-black?style=plastic&logo=fastapi&logoColor=%23009688">
 <img alt="Static Badge" src="https://img.shields.io/badge/gradio-black?style=plastic&logo=gradio&logoColor=%23F97316">
+<img alt="Static Badge" src="https://img.shields.io/badge/streamlit-black?style=plastic&logo=Streamlit&logoColor=%23FF4B4B">
   
 </p>
 
